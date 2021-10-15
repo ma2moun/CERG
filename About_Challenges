@@ -1,8 +1,8 @@
 
 * Challenge #1 (AI Theme): You are given the data related to COVID-19 statistics in Oman. 
-Your task is to predict the cases and deaths in 1/10/2021 using AI (assuming no abnormalities such as new more aggressive variants, or mass vaccination)
+Your task is to predict the cases and deaths in 1/12/2021 using AI (assuming no abnormalities such as new more aggressive variants, or mass vaccination)
 The data is updated daily, so download it when you decide to design your model, link to daily-updated data:
-https://github.com/owid/covid-19-data/tree/master/public/data
+https://github.com/ma2moun/CERG/blob/main/owid-covid-data.xlsx
 
 
 * Challenge #2 (Data Mining Theme): On Twitter, there is a hashtag related to total lockdown in Oman, which is (#اغلاق_تام) (https://twitter.com/search?q=%23اغلاق_تام)
