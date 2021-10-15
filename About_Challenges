@@ -9,7 +9,8 @@ https://github.com/owid/covid-19-data/tree/master/public/data
 Your task is to mine the data related to this hashtag and decide whether people are with OR against the total lockdown.
 
 * Challenge #3 (Cybersecurity Theme): The attached is a zipped folder containing two files: Encryption algorithm and a ciphertext (encrypted message). 
-Your task is to recover the original message using the algorithm. The password to extract the folder is CERG
+Your task is to recover the original message using the algorithm. The password to extract the folder is CERG.
+Code credits go to HTB
 
 * Important notes:
 
