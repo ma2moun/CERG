@@ -1,0 +1,22 @@
+
+* Challenge #1 (AI Theme): You are given the data related to COVID-19 statistics in Oman. 
+Your task is to predict the cases and deaths in 1/10/2021 using AI (assuming no abnormalities such as new more aggressive variants, or mass vaccination)
+The data is updated daily, so download it when you decide to design your model, link to daily-updated data:
+https://github.com/owid/covid-19-data/tree/master/public/data
+
+
+* Challenge #2 (Data Mining Theme): On Twitter, there is a hashtag related to total lockdown in Oman, which is (#اغلاق_تام) (https://twitter.com/search?q=%23اغلاق_تام)
+Your task is to mine the data related to this hashtag and decide whether people are with OR against the total lockdown.
+
+* Challenge #3 (Cybersecurity Theme): The attached is a zipped folder containing two files: Encryption algorithm and a ciphertext (encrypted message). 
+Your task is to recover the original message using the algorithm. The password to extract the folder is CERG
+
+* Important notes:
+
+1-	If you haven’t solved any of the challenges, it does not mean you are not a member of CERG, it means you learned something new! 
+
+2-	Please do not search for ready solutions (if there is any) on Google. These challenges are for learning, no assessment is involved! 
+
+3- Send your submissions to maamoun.khalid (at) mtc.edu.om or dr.maamoun (at) outlook.com 
+
+4-	Hints: challenge#1 (AI’s prediction), challenge#2 (Twitter Scrapping and NLP ), challenge#3 (study the algorithm, line by line).
